@@ -1,0 +1,15 @@
+gTTS==2.5.4
+langdetect==1.0.9
+opencv-contrib-python==4.11.0.86
+opencv-python==4.10.0.84
+pygame==2.6.1
+pytesseract==0.3.13
+certifi>=2017.4.17
+urllib3<3,>=1.21.1
+idna<4,>=2.5
+charset-normalizer<4,>=2
+Pillow>=8.0.0
+packaging>=21.3
+numpy>=1.21.2
+click<8.2,>=7.1
+requests<3,>=2.27
